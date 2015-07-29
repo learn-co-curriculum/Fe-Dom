@@ -1,9 +1,4 @@
----
-language: javascript
-tags: browser, javascript, dom, document object model
-type: lecture
-resources: 0
----
+
 
 ## Dealing With The DOM ~ 10min
 
