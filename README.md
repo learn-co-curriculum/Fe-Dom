@@ -6,3 +6,5 @@
 
 [Slides](https://docs.google.com/presentation/d/1Eai0xrVFmbAAr_H-XXZgQTKFglgQSslxk-xK_lFtY1g/edit?usp=sharing)
 
+
+<a href='https://learn.co/lessons/fe-dom' data-visibility='hidden'>View this lesson on Learn.co</a>
